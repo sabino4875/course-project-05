@@ -7,7 +7,10 @@ This template does not include any kind of persistence (database). For more adva
 Após fazer o fork do projeto, utilizar os comandos abaixo, no prompt de comando:
 
 Instalar os pacotes  => npm install
+
 Teste do projeto     => npm run test
+
 Publicar o projeto   => npm run deploy
+
 Remover o projeto    => npm run remove
 
